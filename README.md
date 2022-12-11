@@ -1,1 +1,1 @@
-# gpt3-pushkin
+# rugpt3-pushkin
